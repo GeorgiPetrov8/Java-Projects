@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11d38534-b957-46a3-9953-dcd29de8e04e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cJdeNDdDmlxwccf9dDFcWOkIBd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.fifthExercise">
+    <configuration name="FirstExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstExercise" />
+      <module name="JavaStacksAndQueues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondExercise" />
+      <module name="JavaStacksAndQueues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdExercise" />
+      <module name="JavaStacksAndQueues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fifthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fifthExercise" />
+      <module name="JavaStacksAndQueues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fourtExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourtExercise" />
+      <module name="JavaStacksAndQueues" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.fifthExercise" />
+        <item itemvalue="Application.fourtExercise" />
+        <item itemvalue="Application.ThirdExercise" />
+        <item itemvalue="Application.SecondExercise" />
+        <item itemvalue="Application.FirstExercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d38534-b957-46a3-9953-dcd29de8e04e" name="Default Changelist" comment="" />
+      <created>1590250724462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590250724462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="612" height="151" key="GridCell.Tab.0.bottom" timestamp="1590349941457">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590262162818" />
+    <state width="612" height="151" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1590330926962" />
+    <state width="612" height="151" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1590330899977" />
+    <state width="612" height="151" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1590349941457" />
+    <state width="612" height="151" key="GridCell.Tab.0.center" timestamp="1590349941457">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590262162816" />
+    <state width="612" height="151" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1590330926961" />
+    <state width="612" height="151" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1590330899976" />
+    <state width="612" height="151" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1590349941457" />
+    <state width="612" height="151" key="GridCell.Tab.0.left" timestamp="1590349941456">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590262162815" />
+    <state width="612" height="151" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1590330926961" />
+    <state width="612" height="151" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1590330899976" />
+    <state width="612" height="151" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1590349941456" />
+    <state width="612" height="151" key="GridCell.Tab.0.right" timestamp="1590349941457">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590262162817" />
+    <state width="612" height="151" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1590330926962" />
+    <state width="612" height="151" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1590330899977" />
+    <state width="612" height="151" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1590349941457" />
+    <state x="317" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1590511378296">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1590262822305" />
+    <state x="317" y="234" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1590511378296" />
+    <state x="317" y="234" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1590326629797" />
+  </component>
+</project>

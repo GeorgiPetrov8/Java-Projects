@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad61e601-adf7-42de-9198-8a557c8da12e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQwSJFFGr6wNoLVNEoLUk7yeFk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.StarEnigma">
+    <configuration name="FirstLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstLab" />
+      <module name="RegexEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondLab" />
+      <module name="RegexEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoftUniBarIncome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoftUniBarIncome" />
+      <module name="RegexEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarEnigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarEnigma" />
+      <module name="RegexEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdLab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdLab" />
+      <module name="RegexEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StarEnigma" />
+        <item itemvalue="Application.SoftUniBarIncome" />
+        <item itemvalue="Application.ThirdLab" />
+        <item itemvalue="Application.SecondLab" />
+        <item itemvalue="Application.FirstLab" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad61e601-adf7-42de-9198-8a557c8da12e" name="Default Changelist" comment="" />
+      <created>1584784623479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584784623479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="621" height="123" key="GridCell.Tab.0.bottom" timestamp="1584999671582">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="149" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1584911764513" />
+    <state width="621" height="123" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1584912540599" />
+    <state width="838" height="149" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1584892102358" />
+    <state width="621" height="123" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1584999671582" />
+    <state width="565" height="149" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1584825138031" />
+    <state width="621" height="123" key="GridCell.Tab.0.center" timestamp="1584999671582">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="149" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1584911764512" />
+    <state width="621" height="123" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1584912540597" />
+    <state width="838" height="149" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1584892102357" />
+    <state width="621" height="123" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1584999671582" />
+    <state width="565" height="149" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1584825138030" />
+    <state width="621" height="123" key="GridCell.Tab.0.left" timestamp="1584999671581">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="149" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1584911764511" />
+    <state width="621" height="123" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1584912540597" />
+    <state width="838" height="149" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1584892102357" />
+    <state width="621" height="123" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1584999671581" />
+    <state width="565" height="149" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1584825138030" />
+    <state width="621" height="123" key="GridCell.Tab.0.right" timestamp="1584999671582">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="149" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1584911764512" />
+    <state width="621" height="123" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1584912540598" />
+    <state width="838" height="149" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1584892102358" />
+    <state width="621" height="123" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1584999671582" />
+    <state width="565" height="149" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1584825138031" />
+    <state width="900" height="221" key="GridCell.Tab.1.bottom" timestamp="1584828302711">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="900" height="221" key="GridCell.Tab.1.bottom/0.23.1280.716@0.23.1280.716" timestamp="1584795354188" />
+    <state width="900" height="221" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1584828302711" />
+    <state width="900" height="221" key="GridCell.Tab.1.center" timestamp="1584828302710">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="900" height="221" key="GridCell.Tab.1.center/0.23.1280.716@0.23.1280.716" timestamp="1584795354187" />
+    <state width="900" height="221" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1584828302710" />
+    <state width="900" height="221" key="GridCell.Tab.1.left" timestamp="1584828302708">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="900" height="221" key="GridCell.Tab.1.left/0.23.1280.716@0.23.1280.716" timestamp="1584795354187" />
+    <state width="900" height="221" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1584828302708" />
+    <state width="900" height="221" key="GridCell.Tab.1.right" timestamp="1584828302710">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="900" height="221" key="GridCell.Tab.1.right/0.23.1280.716@0.23.1280.716" timestamp="1584795354188" />
+    <state width="900" height="221" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1584828302710" />
+    <state x="292" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1584873354228">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="292" y="220" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1584873354228" />
+    <state x="541" y="63" width="670" height="676" key="search.everywhere.popup" timestamp="1584911918568">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="541" y="63" width="670" height="676" key="search.everywhere.popup/0.23.1280.716@0.23.1280.716" timestamp="1584911918568" />
+  </component>
+</project>

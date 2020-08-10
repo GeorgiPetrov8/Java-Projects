@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb21ea45-8623-4ad6-b495-040cbf6d2e42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZjAGbGEtnLl3fWPm5fgVGtC8do" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Followers">
+    <configuration name="Followers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Followers" />
+      <module name="FinalExam9August" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Password" />
+      <module name="FinalExam9August" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Username" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Username" />
+      <module name="FinalExam9August" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Followers" />
+        <item itemvalue="Application.Password" />
+        <item itemvalue="Application.Username" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb21ea45-8623-4ad6-b495-040cbf6d2e42" name="Default Changelist" comment="" />
+      <created>1585342034446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585342034446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="803" height="63" key="GridCell.Tab.0.bottom" timestamp="1585429222692">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585426181114" />
+    <state width="803" height="63" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1585429222692" />
+    <state width="534" height="175" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1585422363140" />
+    <state width="803" height="63" key="GridCell.Tab.0.center" timestamp="1585429222691">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585426181113" />
+    <state width="803" height="63" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1585429222691" />
+    <state width="534" height="175" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1585422363139" />
+    <state width="803" height="63" key="GridCell.Tab.0.left" timestamp="1585429222691">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585426181113" />
+    <state width="803" height="63" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1585429222691" />
+    <state width="534" height="175" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1585422363138" />
+    <state width="803" height="63" key="GridCell.Tab.0.right" timestamp="1585429222691">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="209" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585426181113" />
+    <state width="803" height="63" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1585429222691" />
+    <state width="534" height="175" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1585422363139" />
+    <state width="803" height="166" key="GridCell.Tab.1.bottom" timestamp="1585427601543">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585426161378" />
+    <state width="803" height="166" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1585427601543" />
+    <state width="803" height="166" key="GridCell.Tab.1.center" timestamp="1585427601542">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1585426161377" />
+    <state width="803" height="166" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1585427601542" />
+    <state width="803" height="166" key="GridCell.Tab.1.left" timestamp="1585427601542">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1585426161376" />
+    <state width="803" height="166" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1585427601542" />
+    <state width="803" height="166" key="GridCell.Tab.1.right" timestamp="1585427601542">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1585426161377" />
+    <state width="803" height="166" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1585427601542" />
+  </component>
+</project>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a7c3432-2ae9-4318-a882-9fa2d7c6d84c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fg0gYf5vPP2jU7BYsR2hgq2UIk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InstockTest">
+    <configuration name="InstockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstockTest.Test_changeQuantityThrowsExceptionIfLabelIsNotINTheStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstockTest" />
+      <option name="METHOD_NAME" value="Test_changeQuantityThrowsExceptionIfLabelIsNotINTheStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstockTest.Test_findAllByPriceReturnsAllProductsWithGivenPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstockTest" />
+      <option name="METHOD_NAME" value="Test_findAllByPriceReturnsAllProductsWithGivenPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstockTest.Test_findAllByQuantityReturnEmptyCollectionIfThereIsNotSuchProductsWithThisQuantity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstockTest" />
+      <option name="METHOD_NAME" value="Test_findAllByQuantityReturnEmptyCollectionIfThereIsNotSuchProductsWithThisQuantity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstockTest.Test_findFirstByAlphabeticalOrderReturnCollectionWithProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inStock" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstockTest" />
+      <option name="METHOD_NAME" value="Test_findFirstByAlphabeticalOrderReturnCollectionWithProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InstockTest" />
+        <item itemvalue="JUnit.InstockTest.Test_findAllByPriceReturnsAllProductsWithGivenPrice" />
+        <item itemvalue="JUnit.InstockTest.Test_findAllByQuantityReturnEmptyCollectionIfThereIsNotSuchProductsWithThisQuantity" />
+        <item itemvalue="JUnit.InstockTest.Test_findFirstByAlphabeticalOrderReturnCollectionWithProducts" />
+        <item itemvalue="JUnit.InstockTest.Test_changeQuantityThrowsExceptionIfLabelIsNotINTheStock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a7c3432-2ae9-4318-a882-9fa2d7c6d84c" name="Default Changelist" comment="" />
+      <created>1596624540211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596624540211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1596736497913">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="752" y="107" key="#com.intellij.ide.util.MemberChooser/0.23.1280.724@0.23.1280.724" timestamp="1596736497913" />
+    <state width="639" height="212" key="GridCell.Tab.0.bottom" timestamp="1596757868035">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1596754623550" />
+    <state width="639" height="180" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1596753376204" />
+    <state width="639" height="212" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1596757868035" />
+    <state width="639" height="212" key="GridCell.Tab.0.center" timestamp="1596757868034">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1596754623549" />
+    <state width="639" height="180" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1596753376201" />
+    <state width="639" height="212" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1596757868034" />
+    <state width="639" height="212" key="GridCell.Tab.0.left" timestamp="1596757868034">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1596754623548" />
+    <state width="639" height="180" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1596753376199" />
+    <state width="639" height="212" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1596757868034" />
+    <state width="639" height="212" key="GridCell.Tab.0.right" timestamp="1596757868034">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1596754623549" />
+    <state width="639" height="180" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1596753376202" />
+    <state width="639" height="212" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1596757868034" />
+    <state width="1238" height="189" key="GridCell.Tab.1.bottom" timestamp="1596757868026">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1596754559648" />
+    <state width="1238" height="189" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1596757868026" />
+    <state width="1238" height="189" key="GridCell.Tab.1.center" timestamp="1596757868025">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1596754559647" />
+    <state width="1238" height="189" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1596757868025" />
+    <state width="1238" height="189" key="GridCell.Tab.1.left" timestamp="1596757868025">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1596754559646" />
+    <state width="1238" height="189" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1596757868025" />
+    <state width="1238" height="189" key="GridCell.Tab.1.right" timestamp="1596757868026">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="189" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1596754559648" />
+    <state width="1238" height="189" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1596757868025" />
+    <state x="743" y="309" key="ReplaceDuplicatesPrompt" timestamp="1596752407826">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="743" y="309" key="ReplaceDuplicatesPrompt/0.23.1280.723@0.23.1280.723" timestamp="1596752407826" />
+    <state x="732" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596735405620">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="732" y="66" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.800@0.0.1280.800" timestamp="1596735405620" />
+    <state x="732" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.724@0.23.1280.724" timestamp="1596625265363" />
+    <state x="677" y="129" width="525" height="510" key="extract.method.dialog" timestamp="1596752404946">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="677" y="129" width="525" height="510" key="extract.method.dialog/0.23.1280.723@0.23.1280.723" timestamp="1596752404946" />
+  </component>
+</project>

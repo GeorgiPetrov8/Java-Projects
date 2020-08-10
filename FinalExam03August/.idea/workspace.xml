@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ab03239-47eb-4ebe-95ae-2a185d5d4ab4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zr3eg828S7Y2sCEH7WkNfdJJY1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ThirdProblem">
+    <configuration name="FirstProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstProblem" />
+      <module name="FinalExam03August" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondProblem" />
+      <module name="FinalExam03August" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdProblem" />
+      <module name="FinalExam03August" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThirdProblem" />
+        <item itemvalue="Application.SecondProblem" />
+        <item itemvalue="Application.FirstProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ab03239-47eb-4ebe-95ae-2a185d5d4ab4" name="Default Changelist" comment="" />
+      <created>1585583482940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585583482940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="200" key="GridCell.Tab.0.bottom" timestamp="1585674147811">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="200" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1585662347872" />
+    <state width="1238" height="200" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1585660691383" />
+    <state width="1238" height="200" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1585674147811" />
+    <state width="1238" height="200" key="GridCell.Tab.0.center" timestamp="1585674147810">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="200" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1585662347871" />
+    <state width="1238" height="200" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1585660691382" />
+    <state width="1238" height="200" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1585674147810" />
+    <state width="1238" height="200" key="GridCell.Tab.0.left" timestamp="1585674147810">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="200" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1585662347870" />
+    <state width="1238" height="200" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1585660691381" />
+    <state width="1238" height="200" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1585674147810" />
+    <state width="1238" height="200" key="GridCell.Tab.0.right" timestamp="1585674147811">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="200" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1585662347872" />
+    <state width="1238" height="200" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1585660691382" />
+    <state width="1238" height="200" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1585674147811" />
+    <state x="317" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1586368088533">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="317" y="215" key="com.intellij.ide.util.TipDialog/0.23.1280.716@0.23.1280.716" timestamp="1586368088533" />
+    <state x="317" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.723@0.23.1280.723" timestamp="1585583487168" />
+    <state x="305" y="70" width="670" height="676" key="search.everywhere.popup" timestamp="1585584591280">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="305" y="70" width="670" height="676" key="search.everywhere.popup/0.23.1280.723@0.23.1280.723" timestamp="1585584591280" />
+  </component>
+</project>

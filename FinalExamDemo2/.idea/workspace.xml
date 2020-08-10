@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b005291-8637-497b-becc-da37e8454642" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zi9fxBqqsgq9oOfDTMv4P1vlIR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.InboxManager">
+    <configuration name="EmailValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmailValidator" />
+      <module name="FinalExamDemo2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InboxManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InboxManager" />
+      <module name="FinalExamDemo2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Registration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Registration" />
+      <module name="FinalExamDemo2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InboxManager" />
+        <item itemvalue="Application.Registration" />
+        <item itemvalue="Application.EmailValidator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b005291-8637-497b-becc-da37e8454642" name="Default Changelist" comment="" />
+      <created>1585311154587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585311154587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="46" width="811" height="669" key="#Project_Structure" timestamp="1585311164290">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="469" y="46" width="811" height="669" key="#Project_Structure/0.23.1280.716@0.23.1280.716" timestamp="1585311164290" />
+    <state width="711" height="241" key="GridCell.Tab.0.bottom" timestamp="1585340866271">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="588" height="147" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585317128674" />
+    <state width="711" height="241" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1585340866271" />
+    <state width="711" height="241" key="GridCell.Tab.0.center" timestamp="1585340866270">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="588" height="147" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585317128673" />
+    <state width="711" height="241" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1585340866270" />
+    <state width="711" height="241" key="GridCell.Tab.0.left" timestamp="1585340866270">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="588" height="147" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585317128672" />
+    <state width="711" height="241" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1585340866270" />
+    <state width="711" height="241" key="GridCell.Tab.0.right" timestamp="1585340866271">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="588" height="147" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585317128673" />
+    <state width="711" height="241" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1585340866271" />
+    <state x="603" y="68" width="670" height="676" key="search.everywhere.popup" timestamp="1585338757893">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="603" y="68" width="670" height="676" key="search.everywhere.popup/0.23.1280.721@0.23.1280.721" timestamp="1585338757893" />
+  </component>
+</project>

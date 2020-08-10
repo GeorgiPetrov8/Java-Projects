@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbf22a4f-5379-4c57-9cc2-e1e407adea69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1raMEkCa8eJbjzwfQmnMorkFy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.FixCodes">
+    <configuration name="FixCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixCodes" />
+      <module name="ExamPreparationReCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NikuldenProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NikuldenProblem" />
+      <module name="ExamPreparationReCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NikuldensMeals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NikuldensMeals" />
+      <module name="ExamPreparationReCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Username" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Username" />
+      <module name="ExamPreparationReCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FixCodes" />
+        <item itemvalue="Application.Username" />
+        <item itemvalue="Application.NikuldensMeals" />
+        <item itemvalue="Application.NikuldenProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbf22a4f-5379-4c57-9cc2-e1e407adea69" name="Default Changelist" comment="" />
+      <created>1585914004015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585914004015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="530" height="204" key="GridCell.Tab.0.bottom" timestamp="1585936573523">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585919351349" />
+    <state width="561" height="261" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1585919443596" />
+    <state width="530" height="204" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1585935975989" />
+    <state width="530" height="204" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1585936573523" />
+    <state width="530" height="204" key="GridCell.Tab.0.center" timestamp="1585936573523">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585919351348" />
+    <state width="561" height="261" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1585919443595" />
+    <state width="530" height="204" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1585935975987" />
+    <state width="530" height="204" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1585936573523" />
+    <state width="530" height="204" key="GridCell.Tab.0.left" timestamp="1585936573522">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585919351347" />
+    <state width="561" height="261" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1585919443594" />
+    <state width="530" height="204" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1585935975987" />
+    <state width="530" height="204" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1585936573522" />
+    <state width="530" height="204" key="GridCell.Tab.0.right" timestamp="1585936573523">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585919351348" />
+    <state width="561" height="261" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1585919443595" />
+    <state width="530" height="204" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1585935975988" />
+    <state width="530" height="204" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1585936573523" />
+    <state x="615" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1585914007800">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="615" y="213" key="com.intellij.ide.util.TipDialog/0.23.1280.721@0.23.1280.721" timestamp="1585914007800" />
+  </component>
+</project>

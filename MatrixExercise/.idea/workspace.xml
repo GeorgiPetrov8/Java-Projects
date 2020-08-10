@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56403dad-8a4c-445b-8843-9471c67fc55f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MatrixExercise" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ca13bMbEBYG1co2kfcfA4VlnmB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ReverseMatrixDiagonals">
+    <configuration name="Crossfire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Crossfire" />
+      <module name="MatrixExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixShuffling" />
+      <module name="MatrixExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximalSum" />
+      <module name="MatrixExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseMatrixDiagonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseMatrixDiagonals" />
+      <module name="MatrixExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMatrixRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringMatrixRotation" />
+      <module name="MatrixExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseMatrixDiagonals" />
+        <item itemvalue="Application.Crossfire" />
+        <item itemvalue="Application.StringMatrixRotation" />
+        <item itemvalue="Application.MatrixShuffling" />
+        <item itemvalue="Application.MaximalSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56403dad-8a4c-445b-8843-9471c67fc55f" name="Default Changelist" comment="" />
+      <created>1590751691959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590751691959</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="89" y="110" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1590764516605">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="89" y="110" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1280.726@0.23.1280.726" timestamp="1590764516605" />
+    <state width="572" height="114" key="GridCell.Tab.0.bottom" timestamp="1590960016776">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="114" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590955039749" />
+    <state width="572" height="114" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1590958038086" />
+    <state width="572" height="114" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1590955135586" />
+    <state width="572" height="114" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1590960016776" />
+    <state width="572" height="114" key="GridCell.Tab.0.center" timestamp="1590960016776">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="114" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1590955039748" />
+    <state width="572" height="114" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1590958038086" />
+    <state width="572" height="114" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1590955135584" />
+    <state width="572" height="114" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1590960016776" />
+    <state width="572" height="114" key="GridCell.Tab.0.left" timestamp="1590960016775">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="114" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1590955039748" />
+    <state width="572" height="114" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1590958038085" />
+    <state width="572" height="114" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1590955135578" />
+    <state width="572" height="114" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1590960016775" />
+    <state width="572" height="114" key="GridCell.Tab.0.right" timestamp="1590960016776">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state width="1238" height="114" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1590955039749" />
+    <state width="572" height="114" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1590958038086" />
+    <state width="572" height="114" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1590955135585" />
+    <state width="572" height="114" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1590960016776" />
+    <state width="612" height="190" key="GridCell.Tab.1.bottom" timestamp="1590948902903">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1590948565873" />
+    <state width="612" height="190" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1590948902903" />
+    <state width="665" height="190" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1590852023919" />
+    <state width="612" height="190" key="GridCell.Tab.1.center" timestamp="1590948902903">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1590948565872" />
+    <state width="612" height="190" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1590948902903" />
+    <state width="665" height="190" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1590852023918" />
+    <state width="612" height="190" key="GridCell.Tab.1.left" timestamp="1590948902902">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1590948565870" />
+    <state width="612" height="190" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1590948902902" />
+    <state width="665" height="190" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1590852023918" />
+    <state width="612" height="190" key="GridCell.Tab.1.right" timestamp="1590948902903">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1590948565872" />
+    <state width="612" height="190" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1590948902903" />
+    <state width="665" height="190" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1590852023919" />
+    <state x="631" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1590944599774">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="631" y="214" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1590849766198" />
+    <state x="631" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1590751695127" />
+    <state x="631" y="217" key="com.intellij.ide.util.TipDialog/0.23.1280.726@0.23.1280.726" timestamp="1590944599774" />
+    <state x="618" y="73" width="670" height="676" key="search.everywhere.popup" timestamp="1590872357939">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="618" y="73" width="670" height="676" key="search.everywhere.popup/0.23.1280.726@0.23.1280.726" timestamp="1590872357939" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="matrix[4]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
